@@ -9,5 +9,5 @@ Public for little moment ....
 - Installer OFFICE 2016
 
 # ETAPE 3 
-- Exécuter le fichier .cmd EN TANT QU'ADMINISTRATEUR
+- Exécuter le fichier .cmd EN TANT QU'ADMINISTRATEUR (clic droit sur le fichier puis "Executer en tant qu'administrateur")
 
