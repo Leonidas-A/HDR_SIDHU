@@ -9,5 +9,5 @@ Public for little moment ....
 - Installer OFFICE 2016
 
 # ETAPE 3 
-- Exécuter le fichier .cmd après installation de OFFICE2016
+- Exécuter le fichier .cmd EN TANT QU'ADMINISTRATEUR
 
